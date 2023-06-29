@@ -1,3 +1,4 @@
+#первая версия игры змейка
 import pygame
 import sys
 import random
